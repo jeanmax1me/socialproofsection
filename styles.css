@@ -191,7 +191,7 @@ h1 {
 
 .topcontainer {
 padding: 115px 165px 0 165px;
-  border: 1.5px solid green;
+
   width: 1440px;
   box-sizing: border-box;
   display: flex;
@@ -200,7 +200,7 @@ padding: 115px 165px 0 165px;
 #intro {
 
     flex-basis: 50%;
-  border: 1.5px solid royalblue;
+
   
 
   }
@@ -209,7 +209,7 @@ padding: 115px 165px 0 165px;
     margin-top: 30px;
     padding: 68px 0 0 25px;
     gap: 17px;
-    border: 1.5px solid red;
+  
   }
 
   .container__ratings:nth-child(1) {
@@ -294,7 +294,7 @@ h1 {
 
 #reviews {
     padding-top: 50px;
-    border: 1.5px solid red;
+ 
     
   }
   
